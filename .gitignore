@@ -1,0 +1,31 @@
+# Compiled executables
+*.exe
+
+# Compiled object files
+*.o
+*.obj
+
+# Compiled libraries
+*.lib
+*.a
+
+# Temporary files
+*.tmp
+*.temp
+
+# Debug files
+*.pdb
+*.ilk
+
+# Visual Studio Code settings (optional - uncomment if you want to ignore)
+# .vscode/
+
+# Compiler-generated files
+*.out
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Temporary code runner files
+tempCodeRunnerFile.*
